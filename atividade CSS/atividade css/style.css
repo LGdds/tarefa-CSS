@@ -1,0 +1,32 @@
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid purple;
+
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+body {
+    background-color: black;
+}
+
+.Eu {
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    
+}
+.center {
+    text-align: center;
+}
+button {
+    color: green;
+    
+}
